@@ -14,5 +14,5 @@ The primary challenge faced by investors and stakeholders in financial markets i
   
   *Volatility analysis : Assess the volatility and risk associated with microsofts stock proce movements, enabling to manage and mitigate potetial risks.
 
-# DATA SOURCE INFORMATIONS:
+# DATA SOURCE INFORMATION:
   The project utilizes historical stock price data of Microsoft corporation obtained from Yahoo finance library. This datasets encompasses various variables including Date, Opening price, Closing price, High and low prices, Adjusted closing price and volume of trades.
